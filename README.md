@@ -2,6 +2,17 @@
 
 The following dataset contains 51,272 articles scraped from finance.yahoo.com. The articles were published between 2017 and 2023.
 
+
+## Load the data
+
+The data is in a compressed .xz format. To umcompress the data run the following command:
+
+```bash
+xz -d data/*.xz
+```
+
+This will restore the original .json files and remove the .xz compressed versions.
+
 ## Description of Samples
 
 The json-style sample below provides a description of each of the items in the dataset. Each value is null is the piece of data is unavailable.
