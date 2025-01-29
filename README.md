@@ -1,5 +1,6 @@
 # financial-news-dataset
 
+The following dataset contains 51272 articles scraped from finance.yahoo.com. The articles were published between 2017 and 2023.
 
 ## Description of Samples
 
