@@ -121,6 +121,7 @@ https://www.gov.uk/guidance/exceptions-to-copyright
 
 ## Citation
 
+```bibtex
 @misc{drinkall2025financialregression,
       title={When Dimensionality Hurts: Investigating the Role of LLM Embedding Compression for Noisy Regression Tasks}, 
       author={Felix Drinkall and Janet B. Pierrehumbert and Stefan Zohren},
