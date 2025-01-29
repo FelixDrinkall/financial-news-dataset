@@ -8,54 +8,29 @@ The json-style sample below provides a description of each of the items in the d
 ```
 {
     "authors": "List of authors who wrote the article.",
-    
     "date_download": "Timestamp when the article was downloaded in the initial commoncrawl web scrape, in UTC format.",
-
     "date_modify": "Timestamp when the article was last modified, if available.",
-
     "date_publish": "Timestamp when the article was originally published, in UTC format.",
-
     "description": "Short summary of the article.",
-
     "filename": "Encoded filename that represents the URL of the article.",
-
     "image_url": "URL of the main image associated with the article.",
-
     "language": "Language of the article, represented by a two-letter ISO 639-1 code.",
-
     "localpath": "Local file path where the article is stored, null if not saved locally.",
-
     "maintext": "Full text content of the article, excluding metadata and formatting.",
-
     "source_domain": "The domain name of the news source that published the article.",
-
     "title": "Title of the article.",
-
     "title_page": "Extracted title from the webpage.",
-
-    "title_rss": null,
-    "description": "Title extracted from the RSS feed of the source, null if not available.",
-
+    "title_rss": "Title extracted from the RSS feed of the source, null if not available.",
     "url": "URL of the original article.",
-
     "mentioned_companies": "List of stock ticker symbols of companies explicitly mentioned in the article.",
-
     "related_companies": "List of stock ticker symbols of companies related to one of the mentioned companies by virtue of being in the same industry. Industry groupings are determined by sharing the same Header SIC Code.",
-
     "industries": "List of industry codes (HSICCD) associated with the article.",
-
     "named_entities": "List of named entities identified in the article, including persons (PER), organizations (ORG), and locations (LOC). Model: dslim/bert-base-NER",
-
     "prev_day_price_{ticker}": "Close price of <<ticker>> on the day before the article was published.",
-
     "next_day_price_{ticker}": "Close price of <<ticker>> on the day after the article was published.",
-
     "curr_day_price_{ticker}": "Close price of <<ticker>> on the same day the article was published.",
-
     "sentiment": "Sentiment scores of the article, with probabilities assigned to negative, neutral, and positive sentiment categories. Model: mrm8488/distilroberta-finetuned-financial-news-sentiment-analysis",
-
     "emotion": "Emotion analysis of the article, with probabilities assigned to: neutral, surprise, disgust, joy, anger, sadness, and fear. Model: j-hartmann/emotion-english-distilroberta-base",
-
     "news_outlet": "Name of the news outlet that published the article."
 }
 ```
