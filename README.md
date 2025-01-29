@@ -100,4 +100,12 @@ The json-style sample below provides a description of each of the items in the d
 
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) License, allowing for academic sharing and adaptation while prohibiting commercial use. Researchers may use the dataset under Fair Use/Dealing law, as it is intended for non-commercial research and study, aligning with legal exemptions for academic purposes. By applying this license, we ensure open academic access and maintain compliance with Fair Use/Dealing provisions. Fair Use/Dealing permits the use of copyrighted material for academic purposes because it serves the public interest by enabling research, study, education, and transformative analysis without unfairly impacting the original work's commercial value. 
 
+Fair Use (US Law):
+
+https://www.copyright.gov/fair-use/
+
+Fair Dealing (UK Law):
+
+https://www.gov.uk/guidance/exceptions-to-copyright
+
 ## Citation
