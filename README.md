@@ -120,3 +120,11 @@ Fair Dealing (UK Law):
 https://www.gov.uk/guidance/exceptions-to-copyright
 
 ## Citation
+
+@misc{drinkall2025financialregression,
+      title={When Dimensionality Hurts: Investigating the Role of LLM Embedding Compression for Noisy Regression Tasks}, 
+      author={Felix Drinkall and Janet B. Pierrehumbert and Stefan Zohren},
+      year={2025},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+}
