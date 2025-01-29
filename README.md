@@ -2,7 +2,6 @@
 
 The following dataset contains 51,272 articles scraped from finance.yahoo.com. The articles were published between 2017 and 2023.
 
-
 ## Load the data
 
 The data is in a compressed .xz format. To umcompress the data run the following command:
