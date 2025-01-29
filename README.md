@@ -47,7 +47,7 @@ The json-style sample below provides a description of each of the items in the d
 
 ## Example:
 
-```
+```json
 {
         "authors": [],
         "date_download": "2017-03-21 14:38:12+00:00",
