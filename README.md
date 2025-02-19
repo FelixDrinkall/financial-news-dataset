@@ -1,6 +1,7 @@
 # financial-news-dataset
 
-The following dataset contains 51,272 articles scraped from finance.yahoo.com. The articles were published between 2017 and 2023.
+The following dataset contains 51,272 articles scraped from finance.yahoo.com. The articles were published between 2017 and 2023. Github repo for code is [here](https://github.com/FelixDrinkall/when_dimensionality_hurts).
+
 
 ## Load the data
 
@@ -129,4 +130,3 @@ https://www.gov.uk/guidance/exceptions-to-copyright
       primaryClass={cs.CL},
 }
 ```
-Github repo for code is [here](https://github.com/FelixDrinkall/when_dimensionality_hurts)
